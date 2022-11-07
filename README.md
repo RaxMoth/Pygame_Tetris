@@ -1,3 +1,3 @@
 # Pygame_Tetris
 
-A liitle Pygame project its Tetris! 
+A little Pygame project, its Tetris! 
